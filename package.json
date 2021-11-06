@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "ssh://git@github.com/s-osa/graphql-nexus-tutorial.git",
   "author": "Shunsuke Osa <hhelibebcnofnenamg@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.0.1",
+    "nexus": "^1.1.0"
+  }
 }
