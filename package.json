@@ -1,0 +1,8 @@
+{
+  "name": "graphql-nexus-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/s-osa/graphql-nexus-tutorial.git",
+  "author": "Shunsuke Osa <hhelibebcnofnenamg@gmail.com>",
+  "license": "MIT"
+}
